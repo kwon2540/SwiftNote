@@ -1,3 +1,4 @@
 # SwiftNote
 
 - [DynamicMemberLookup](https://github.com/kwon2540/SwiftNote/blob/main/DynamicMemberLookup.md)
+- [VerticalAlignment: FirstTextCenter](https://github.com/kwon2540/SwiftNote/blob/main/FirstTextCenter.md)
