@@ -25,7 +25,7 @@
 
 `$ rbenv exec bundle package --all` // 手動で Cache する場合
 
-###s fastlane init
+### fastlane init
 
 `$ rbenv exec bundler exec fastlane init`
 
