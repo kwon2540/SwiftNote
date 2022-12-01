@@ -7,3 +7,4 @@
 - [callAsFunction](https://github.com/kwon2540/SwiftNote/blob/main/callAsFunction.md)
 - [FormatStyle+Extension](https://github.com/kwon2540/SwiftNote/blob/main/FormatStyle+Extension.md)
 - [Setup Fastlane](https://github.com/kwon2540/SwiftNote/blob/main/SetupFastlane.md)
+- [Custom DateEncodingStrategy](https://github.com/kwon2540/SwiftNote/blob/main/CustomDateEncodingStrategy.md)
